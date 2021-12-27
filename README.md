@@ -1,1 +1,1 @@
-# imooc-news-config
+# paobar-config
