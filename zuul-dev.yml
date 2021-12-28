@@ -1,5 +1,5 @@
 blackIp:
-  continueCounts: 10
-  timeInterval: 10
-  limitTime: 10
+  continueCounts: 20
+  timeInterval: 20
+  limitTime: 20
 
